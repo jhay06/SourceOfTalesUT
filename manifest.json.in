@@ -1,0 +1,15 @@
+{
+    "name": "sourcetales.jhayproject",
+    "description": "A port of source of tales",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Source of Tales",
+    "hooks": {
+        "sourcetales": {
+            "apparmor": "sourcetales.apparmor",
+            "desktop":  "sourcetales.desktop"
+        }
+    },
+    "version": "1.0.2",
+    "maintainer": "Jhay Mendoza <jrockhackerz@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Source of Tales
+Exec=sourcetales %U
+Icon=assets/tales.png
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
+X-Ubuntu-Supported-Orientations=landscape
